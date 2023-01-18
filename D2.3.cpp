@@ -5,9 +5,9 @@ int main() {
     int pass1 = 1234;
     int pass2 = 5678;
 
-    std::cout << "Enter first number: ";
+    std::cout << "Log: ";
     std::cin >> num1;
-    std::cout << "Enter second number: ";
+    std::cout << "pass: ";
     std::cin >> num2;
 
     if (num1 == pass1 && num2 == pass2) {
