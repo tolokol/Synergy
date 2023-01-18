@@ -7,7 +7,7 @@ int main() {
 
     std::cout << "Log: ";
     std::cin >> num1;
-    std::cout << "pass: ";
+    std::cout << "pass ";
     std::cin >> num2;
 
     if (num1 == pass1 && num2 == pass2) {
